@@ -1,0 +1,17 @@
+.heroTextContainer {
+    background-color: rgba(164,211,200,255);
+    width: 50%;
+    padding: 1rem;
+    margin: 0 1rem 1rem 1rem;
+    border-radius: 1.5rem;
+    border-color: rgba(119,175,169,255);
+    border-style: solid;
+
+}
+
+.heroTextSection {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+
+}

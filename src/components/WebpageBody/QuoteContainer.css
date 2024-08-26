@@ -1,0 +1,26 @@
+
+.quoteContainer {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    height: 8rem;
+    border-radius: 1.5rem;
+    border-color: rgba(119,175,169,255);
+    border-style: solid;
+    margin: 0.75rem;
+    padding: 0.5rem;
+}
+
+.quoteAuthor {
+    flex-direction: column;
+    text-align: right;
+    margin-right: 1.5rem;
+
+}
+
+.quoteItem {
+    margin: 1rem 1rem 0 1rem;
+}
